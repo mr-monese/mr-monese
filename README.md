@@ -1,3 +1,7 @@
+<div>
+  <h1>PRINCE MONESE</h1>
+</div>
+
 - 👋 Hi, I’m @mr-monese and i am new to all this coding stuff 
 - 👀 I’m interested in computers and tech
 - 🌱 I’m currently learning HTML5 and CSS3
@@ -11,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-  <h1>THANK YOU FOR READING</h1>
+  <h2>THANK YOU FOR READING</h2>
 </div>
